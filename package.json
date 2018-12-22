@@ -1,0 +1,22 @@
+{
+  "name": "my-gcp-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisholee/my-gcp-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisholee/my-gcp-function/issues"
+  },
+  "homepage": "https://github.com/dennisholee/my-gcp-function#readme",
+  "devDependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-beta.5"
+  }
+}
